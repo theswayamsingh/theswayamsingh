@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in App Development. I have experience as a Flutter Developer Intern @ Mahawanti Solutions Pvt. Ltd., and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and useful.
+I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in App Development. I have experience as a **Flutter Developer Intern @ Mahawanti Solutions Pvt. Ltd.**, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and useful.
 - 📚 I’m currently learning ...
   - *Flutter*
   - *Firebase*
@@ -34,18 +34,24 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 **Languages**
 <br>
+
 [![Languages](https://skillicons.dev/icons?i=dart,py,java,c,javascript)](https://skillicons.dev)
 <br>
 
+
 **Technologies**
 <br>
+
 [![Technologies](https://skillicons.dev/icons?i=flutter,firebase,mysql,git)](https://skillicons.dev)
 <br>
 
+
 **Platforms**
 <br>
+
 [![Platforms](https://skillicons.dev/icons?i=github,vscode,androidstudio,pycharm)](https://skillicons.dev)
 <br>
 
