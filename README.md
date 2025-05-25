@@ -99,7 +99,8 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 
 
-## 👀Visitors Count
+👀**Visitors Count**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
