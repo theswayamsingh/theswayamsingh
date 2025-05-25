@@ -38,8 +38,16 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <br>
 [![Languages](https://skillicons.dev/icons?i=dart,py,java,c,javascript)](https://skillicons.dev)
 <br>
+
+**Technologies**
+<br>
 [![Technologies](https://skillicons.dev/icons?i=flutter,firebase,mysql,git)](https://skillicons.dev)
+<br>
+
+**Platforms**
+<br>
 [![Platforms](https://skillicons.dev/icons?i=github,vscode,androidstudio,pycharm)](https://skillicons.dev)
+<br>
 
 <!--
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
