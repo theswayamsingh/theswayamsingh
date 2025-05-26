@@ -55,9 +55,9 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="70%">
       <h3 align="center">UIET Kanpur Docs</h3>
-      <div>
+      <div align="centre">
         <a href="https://github.com/theswayamsingh/UIET_Kanpur_Docs" target="_blank">
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic1.png" width="500" style="object-fit: cover;" alt="UIET Kanpur Docs">
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic2.png" width="500" style="object-fit: cover;" alt="UIET Kanpur Docs">
