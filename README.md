@@ -60,12 +60,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
         <a href="https://github.com/theswayamsingh/UIET_Kanpur_Docs" target="_blank">
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic1.png" width="500" style="object-fit: cover;" alt="UIET Kanpur Docs">
         </a>
-        <p>
-          <!--<a href="https://github.com/theswayamsingh/UIET_Kanpur_Docs" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>-->
-        </p>
-        <p><strong>UIET Kanpur Docs</strong>900+ Downloads on Google Play Store</p>
+        <p><strong>900+ Downloads on Google Play Store</strong>egffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
       </div>
     </td>
   </tr>
