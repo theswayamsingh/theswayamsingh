@@ -55,17 +55,17 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">El Molino</h3>
+      <h3 align="center">UIET Kanpur Docs</h3>
       <div align="center">
-        <a href="https://github.com/ALX-13/El-Molino" target="_blank">
-          <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+        <a href="https://github.com/theswayamsingh/UIET_Kanpur_Docs" target="_blank">
+          <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/tree/main/screenshots/app_pic1.png" width="500" style="object-fit: cover;" alt="El Molino">
         </a>
         <p>
-          <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+          <a href="https://github.com/theswayamsingh/UIET_Kanpur_Docs" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
+        <p><strong>UIET Kanpur Docs</strong>900+ Downloads on Google Play Store</p>
       </div>
     </td>
   </tr>
