@@ -59,8 +59,9 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
       <div align="center">
         <a href="https://github.com/theswayamsingh/UIET_Kanpur_Docs" target="_blank">
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic1.png" width="500" style="object-fit: cover;" alt="UIET Kanpur Docs">
+          <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic2.png" width="500" style="object-fit: cover;" alt="UIET Kanpur Docs">
         </a>
-        <p><strong>900+ Downloads on Google Play Store</strong>egffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
+        <p><strong>900+ Downloads on Google Play Store</strong></p>
       </div>
     </td>
   </tr>
