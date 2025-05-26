@@ -16,13 +16,6 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 - 📫 Reach out to me at: <a href="theswayamsingh@gmail.com">theswayamsingh@gmail.com</a>
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=theswayamsingh&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:theswayamsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
@@ -55,7 +48,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 [![Platforms](https://skillicons.dev/icons?i=github,vscode,androidstudio,pycharm)](https://skillicons.dev)
 <br>
 
-<!--
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
