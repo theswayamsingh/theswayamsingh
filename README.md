@@ -20,7 +20,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <div align="center">
   <a href="mailto:theswayamsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/theswayamsingh/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge" /></a>
-  <a href="https://play.google.com/store/apps/developer?id=Swayam+Singh"><img src="https://img.shields.io/badge/Google Play Store" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=Swayam+Singh"><img src="https://img.shields.io/badge/Google Play Store-%2312100E.svg?&style=for-the-badge" /></a>
 </div>
 
 <br>
