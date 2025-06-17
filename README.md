@@ -78,8 +78,9 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=theswayamsingh&theme=nightowl&show_icons=true&count_private=true" />
-    <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=theswayamsingh&theme=nightowl&hide_border=false" alt="theswayamsingh streak" />-->
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=theswayamsingh&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theswayamsingh&theme=nightowl&hide_border=false" alt="theswayamsingh streak" />-->
+    <img src="https://github-readme-stats.vercel.app/api?username=theswayamsingh&theme=nightowl&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=theswayamsingh&theme=nightowl&hide_border=false" alt="theswayamsingh streak" />
 </td>
 <td width="50%" align="center">
@@ -89,9 +90,6 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 </table>
 </p>
 <br>
- ![](https://github-readme-stats.vercel.app/api?username=theswayamsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
- ![](https://nirzak-streak-stats.vercel.app/?user=theswayamsingh&theme=dark&hide_border=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theswayamsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 👀**Visitors Count**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
