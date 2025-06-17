@@ -78,9 +78,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <!--<img src="https://github-readme-stats.vercel.app/api?username=theswayamsingh&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=theswayamsingh&theme=nightowl&hide_border=false" alt="theswayamsingh streak" />-->
-    <img src="https://github-readme-stats.vercel.app/api?username=theswayamsingh&theme=nightowl&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-stats.vercel.app/api?username=theswayamsingh&theme=nightowl&show_icons=true&hide_border=false&count_private=false" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=theswayamsingh&theme=nightowl&hide_border=false" alt="theswayamsingh streak" />
 </td>
 <td width="50%" align="center">
