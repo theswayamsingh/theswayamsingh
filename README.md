@@ -58,7 +58,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
     <td width="50%">
       <h3 align="center">UIET Kanpur Docs</h3>
       <div align="center">
-        <a href="https://github.com/theswayamsingh/UIET_Kanpur_Docs" target="_blank">
+        <a href="[https://github.com/theswayamsingh/UIET_Kanpur_Docs](https://play.google.com/store/apps/details?id=com.theswayamsingh.uiet_docs)" target="_blank">
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic1.png" width="485" style="object-fit: cover;" alt="UIET Kanpur Docs">
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic2.png" width="485" style="object-fit: cover;" alt="UIET Kanpur Docs">
         </a>
