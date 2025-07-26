@@ -62,7 +62,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic1.png" width="485" style="object-fit: cover;" alt="UIET Kanpur Docs">
           <img src="https://github.com/theswayamsingh/UIET_Kanpur_Docs/blob/main/screenshots/app_pic2.png" width="485" style="object-fit: cover;" alt="UIET Kanpur Docs">
         </a>
-        <p><strong>900+ Downloads on Google Play Store</strong></p>
+        <p><strong>1000+ Downloads on Google Play Store</strong></p>
   <a href="https://play.google.com/store/apps/details?id=com.theswayamsingh.uiet_docs"><img src="https://img.shields.io/badge/Google Play Store Link-%2312100E.svg?&style=for-the-badge" /></a>
       </div>
     </td>
