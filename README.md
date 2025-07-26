@@ -89,6 +89,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 </p>
 <br>
 
+<!---
 👀**Visitors Count**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
@@ -102,7 +103,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!---
+
 theswayamsingh/theswayamsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
